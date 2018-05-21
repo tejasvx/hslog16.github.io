@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Classification of Text Using LSTM"
-date:   2018-10-21 13:00:00
+date:   
 categories: blog
 ---
 
