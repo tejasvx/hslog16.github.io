@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Classification of Text Using LSTM"
-date:   
+date:   2017-11-16
 categories: blog
 ---
 
