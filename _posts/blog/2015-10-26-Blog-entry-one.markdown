@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generative Adversarial Networks"
-date:   2018-05-22
+date:   2018-05-22 16:51:11
 categories: blog
 ---
 Traditional Approaches to train neural networks were to simply feed some input values to the network, based on the weights of that network , it will return some output and based on that output , it will calculate some loss if the labels are provided to it.
