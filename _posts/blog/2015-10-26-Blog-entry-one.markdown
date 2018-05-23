@@ -50,3 +50,5 @@ To train generator network we will pass a full batch of fake images to stacked u
 the basis of that generator network weight updation will take place.
 Both our network will fight against each other to surpass each other till the time nash
 equilibrium is not established.
+
+<a href="https://github.com/hslog16/GAN">Code is available at this link</a>.
